@@ -4,6 +4,7 @@ Tracking my code
 
 One Paragraph of your project description goes here. Describe what you're trying to do.
 What is the purpose of putting up this repo?
+This is a lab that allows me to practice storing my Python code in Github.
 
 ## Getting Started
 
