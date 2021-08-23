@@ -19,7 +19,7 @@ What things are needed to install the software and how to install them. For now,
 
 ## Built With
 
-* [Python](https://www.python.org/) - The coding language used
+* [Python](https://www.python.org/) - The coding language used to help Terry with support.
 
 ## Authors
 
